@@ -1,0 +1,14 @@
+# Ignore .env file with sensitive tokens
+.env
+
+# Ignore Python cache files and virtual environments
+*.pyc
+__pycache__/
+venv/
+env/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
