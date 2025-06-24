@@ -1,0 +1,7 @@
+python-telegram-bot
+transformers
+torch
+python-dotenv
+huggingface-hub
+accelerate
+nest-asyncio
