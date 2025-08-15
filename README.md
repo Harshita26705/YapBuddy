@@ -21,6 +21,11 @@ Built using **Falcon-7B-Instruct** on Hugging Face and deployed via **Telegram**
 
 ---
 
+## 📁 Colab File
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1azBYjInaNNHgsxghZnGeqIaSBB-WTxys?usp=sharing)
+
+---
+
 ## 🛠️ Tech Stack
 
 - Falcon-7B-Instruct (Hugging Face)
@@ -48,5 +53,6 @@ Built using **Falcon-7B-Instruct** on Hugging Face and deployed via **Telegram**
 
 ## 📬 Connect with YapBuddy
 Try YapBuddy on Telegram → t.me/ProffesionalYapperBot
+
 
 
